@@ -64,7 +64,6 @@ tr:nth-of-type(even){
           font-size:120%;
           margin-top:50px;
           min-height:200px;
-          align: "right";
      }
      header a:link{text-decoration: none; display:block; color:#FFF}
      header a:visited{text-decoration: none; display:block; color:#FFF}
@@ -231,7 +230,6 @@ tr:nth-of-type(even){
           font-size:90%;
           margin-top:50px;
           min-height:200px;
-          align: "right";
      }
      header a:link{text-decoration: none; display:block; color:#FFF}
      header a:visited{text-decoration: none; display:block; color:#FFF}
@@ -353,7 +351,6 @@ tr:nth-of-type(even){
           font-size:90%;
           margin-top:50px;
           min-height:200px;
-          align: "right";
      }
      header a:link{text-decoration: none; display:block; color:#FFF}
      header a:visited{text-decoration: none; display:block; color:#FFF}
